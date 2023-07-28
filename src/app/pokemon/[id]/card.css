@@ -1,0 +1,33 @@
+
+
+#pokeimg {
+    background-color: #F5F5F5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#pokestats {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    background-color: #51c4e7b2;
+}
+
+.info_1 h1 {
+    font-size: 50px;
+    padding: 20px 40px 0 0;
+}
+
+.info_2 p {
+    font-size: 20px;
+    color: #fff;
+}
+
+#linkBack {
+    padding: 10px 25px;
+    background-color: rgb(189, 78, 78);
+    color: white;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}

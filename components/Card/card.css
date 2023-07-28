@@ -1,0 +1,137 @@
+.card {
+    width: 300px;
+    color: black;
+}
+
+.card>div:first-child {
+    height: 60%;
+}
+
+.card>div:first-child>img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    align-items: center;
+    background-color: #F5F5F5;
+}
+
+.card>div:last-child {
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* ----- Types ----- */
+
+.type.grass {
+    background-color: #C0D8B6;
+    padding: 0px 10px;
+    font-size: 20px;
+
+  }
+  
+  .type.poison {
+    background-color: #CAB8D9;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.fire {
+    background-color: #F6D2B4;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.water {
+    background-color: #B6D8D8;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.bug {
+    background-color: #E0E0A8;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.dragon {
+    background-color: #CAB8D9;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.flying {
+    background-color: #D8D6E0;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.normal {
+    background-color: #E6E2D3;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.electric {
+    background-color: #F5E5C0;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.ground {
+    background-color: #E2C9A8;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.fairy {
+    background-color: #F5D6E0;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.fighting {
+    background-color: #E0B6B6;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.psychic {
+    background-color: #E6CEE2;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.rock {
+    background-color: #D3CAB6;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.steel {
+    background-color: #D6D6D6;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.ice {
+    background-color: #B6E0E0;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.ghost {
+    background-color: #CAB8D9;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  .type.dark {
+    background-color: #B6B6B6;
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  
+  
